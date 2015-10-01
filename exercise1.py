@@ -13,6 +13,7 @@ __copyright__ = "2015 Susan Sim"
 __license__ = "MIT License"
 
 fee = 0.03
-
+buy = 5.20
 money = 30000.00
+
 print(money)
